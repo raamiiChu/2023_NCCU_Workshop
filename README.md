@@ -1,6 +1,8 @@
 # 2023_NCCU_Workshop
 2023 國立政治大學 焦點工作坊 教材
 
+---  
+
 ### 1. 點擊「焦點工作坊.ipynb」  
 ![image](https://github.com/raamiiChu/2023_NCCU_Workshop/assets/87169493/565a7ab3-6a36-4f5e-ab27-dc40eeb00801)  
 
